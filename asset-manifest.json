@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/modren_react_protfolio/static/css/main.f7c00ed8.css",
+    "main.js": "/modren_react_protfolio/static/js/main.f17c040a.js",
+    "static/media/cv.pdf": "/modren_react_protfolio/static/media/cv.eaef68d4ba2fe8993478.pdf",
+    "static/media/me.png": "/modren_react_protfolio/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/me-about.jpg": "/modren_react_protfolio/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/modren-house.png": "/modren_react_protfolio/static/media/modren-house.2d83101dc9e657b78a39.png",
+    "static/media/furniture-project.png": "/modren_react_protfolio/static/media/furniture-project.8b2935e7959afdec52f5.png",
+    "static/media/modern_restaurant.png": "/modren_react_protfolio/static/media/modern_restaurant.d6570e0d56cbcd80fa83.png",
+    "static/media/portfolio6.jpg": "/modren_react_protfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/magazee.png": "/modren_react_protfolio/static/media/magazee.d85e08190dddd07453f7.png",
+    "static/media/form-validation.png": "/modren_react_protfolio/static/media/form-validation.98396c88d1b9913b16b8.png",
+    "index.html": "/modren_react_protfolio/index.html",
+    "main.f7c00ed8.css.map": "/modren_react_protfolio/static/css/main.f7c00ed8.css.map",
+    "main.f17c040a.js.map": "/modren_react_protfolio/static/js/main.f17c040a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7c00ed8.css",
+    "static/js/main.f17c040a.js"
+  ]
+}
