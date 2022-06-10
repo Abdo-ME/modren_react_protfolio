@@ -30,19 +30,19 @@ const Contact = () => {
             <HiOutlineMailOpen />
             <h4>Email</h4>
             <h5>ae.mehda@gmail.com</h5>
-            <a href="mailto:ae.mehda@gmail.com" target='_blank'>Send a message</a>
+            <a href="mailto:ae.mehda@gmail.com" target='_blank' rel="noopener noreferrer">Send a message</a>
           </article>
           <article className="contact__option">
             <BsMessenger />
             <h4>Massenger</h4>
             <h5>AE Mehda</h5>
-            <a href="https://m.me/100004809096416" target='_blank'>Send a message</a>
+            <a href="https://m.me/100004809096416" target='_blank' rel="noopener noreferrer">Send a message</a>
           </article>
           <article className="contact__option">
             <BsWhatsapp />
             <h4>WhatsApp</h4>
             <h5>+213664726837</h5>
-            <a href="https://wa.me/213664726837" target='_blank'>Send a message</a>
+            <a href="https://wa.me/213664726837" target='_blank' rel="noopener noreferrer">Send a message</a>
           </article>
         </div>
         {/* End of Contact options */}

@@ -58,6 +58,7 @@
 @media screen and (max-width: 600px) {
   .services__container {
     grid-template-columns: 1fr;
+    place-items: center;
     gap: 1.5rem;
   }
   .service {
